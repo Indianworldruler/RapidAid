@@ -5,7 +5,8 @@ RapidAid is a Flutter-based emergency assistance application that helps users qu
 ## APK
 
 The Android APK is provided with this project for users who want to install RapidAid without setting up Flutter.
-#USE THIS LINK TO DOWNLOAD THE APK: https://drive.google.com/file/d/1laThKA2QyOyAt7zIHqp64KY_X65zfYOD/view?usp=drive_link
+
+USE THIS LINK TO DOWNLOAD THE APK: https://drive.google.com/file/d/1laThKA2QyOyAt7zIHqp64KY_X65zfYOD/view?usp=drive_link
 
 ### How to Use
 
